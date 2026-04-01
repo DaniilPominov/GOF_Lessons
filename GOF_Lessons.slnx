@@ -2,4 +2,5 @@
   <Project Path="GOF_Lessons/GOF_Lessons.csproj" />
   <Project Path="Homework1/Homework1.csproj" Id="4b2da306-1c23-41fc-abbe-8910b6f97d84" />
   <Project Path="Homework2/Homework2.csproj" Id="1bd8a053-5912-4386-98bd-9ad17265f4b0" />
+  <Project Path="Homework3/Homework3.csproj" Id="e8294f49-cf2f-4730-8706-bcae7e37d5ed" />
 </Solution>
