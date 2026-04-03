@@ -3,4 +3,6 @@
   <Project Path="Homework1/Homework1.csproj" Id="4b2da306-1c23-41fc-abbe-8910b6f97d84" />
   <Project Path="Homework2/Homework2.csproj" Id="1bd8a053-5912-4386-98bd-9ad17265f4b0" />
   <Project Path="Homework3/Homework3.csproj" Id="e8294f49-cf2f-4730-8706-bcae7e37d5ed" />
+  <Project Path="Homework4.2/Homework4.2.csproj" Id="4b159a1a-6e7e-46ea-91be-f7f4e243b5e5" />
+  <Project Path="Homework4/Homework4.csproj" Id="03079f2f-0194-4fd4-83c2-ccd7f6e27c35" />
 </Solution>
